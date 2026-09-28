@@ -421,3 +421,18 @@
 [submodule "frozen/Adafruit_CircuitPython_TAS2505"]
 	path = frozen/Adafruit_CircuitPython_TAS2505
 	url = https://github.com/adafruit/Adafruit_CircuitPython_TAS2505.git
+[submodule "frozen/Adafruit_CircuitPython_AdafruitIO"]
+	path = frozen/Adafruit_CircuitPython_AdafruitIO
+	url = https://github.com/adafruit/Adafruit_CircuitPython_AdafruitIO
+[submodule "frozen/Adafruit_CircuitPython_HDC302x"]
+	path = frozen/Adafruit_CircuitPython_HDC302x
+	url = https://github.com/adafruit/Adafruit_CircuitPython_HDC302x
+[submodule "frozen/Adafruit_CircuitPython_MiniMQTT"]
+	path = frozen/Adafruit_CircuitPython_MiniMQTT
+	url = https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT
+[submodule "frozen/Adafruit_CircuitPython_NTP"]
+	path = frozen/Adafruit_CircuitPython_NTP
+	url = https://github.com/adafruit/Adafruit_CircuitPython_NTP
+[submodule "frozen/Adafruit_CircuitPython_PixelBuf"]
+	path = frozen/Adafruit_CircuitPython_PixelBuf
+	url = https://github.com/adafruit/Adafruit_CircuitPython_PixelBuf
