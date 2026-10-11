@@ -12,3 +12,16 @@ CIRCUITPY_ESP_FLASH_SIZE = 8MB
 
 # Few pins.
 CIRCUITPY_PARALLELDISPLAYBUS = 0
+
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_MiniMQTT
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_AdafruitIO
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_ConnectionManager
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_Requests
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_NTP
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_HDC302x
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_Ticks
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_PixelBuf
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_NeoPixel
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_SSD1306
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_framebuf
+FROZEN_MPY_DIRS += $(TOP)/frozen/myprivate_lib
